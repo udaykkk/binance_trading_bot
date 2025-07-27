@@ -16,6 +16,8 @@ A simple Python command-line trading bot to execute **MARKET**, **LIMIT**, and *
 
 
 ## Project Structure
+
+
 binance_trading_bot/
 ├── bot.py # Bot logic & order placement
 ├── cli.py # Command-line interface
